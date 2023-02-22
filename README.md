@@ -58,27 +58,17 @@
 
 # Ответ : 
 cat a.txt
-
 a
-
 b
-
 c
-
 d
-
 
 cat < a.txt > b.txt
 
-
 cat b.txt
-
 a
-
 b
-
 c
-
 d
 
 
